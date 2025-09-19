@@ -3,7 +3,7 @@ const urlsToCache = [
     '/',
     '/index.html',
     // manifest.json dihapus dari sini agar tidak di-cache saat instalasi
-    'https://i.imghippo.com/files/jbd3940.png'
+    'https://i.imghippo.com/files/VhCE4164Aag.png'
 ];
 
 // Event install: cache file-file dasar aplikasi
